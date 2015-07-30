@@ -1,2 +1,0 @@
-# webs
-My personal webpage
