@@ -60,11 +60,10 @@ body {
   padding: 30px;
 }
 
-
-.cover-heading {
+p.lead {
   color: darkcyan;
   font-family: 'Ubuntu', sans-serif;
-  font-size: 400%;
+  font-size: 100%;
 }
 
 /*
@@ -73,7 +72,6 @@ body {
 .masthead-brand {
   margin-top: 10px;
   margin-bottom: 10px;
-  color: darkcyan;
 }
 
 .masthead-nav > li {
@@ -102,7 +100,7 @@ body {
 .masthead-nav > .active > a:focus {
   color: darkcyan;
   border-bottom-color: darkcyan;
-}
+} 
 
 
 @media (min-width: 768px) {
@@ -156,20 +154,4 @@ body {
   }
 }
 
-
-.navbar-text > a {
-    color: darkcyan; 
-    text-decoration: none;
-    padding: 5px;
-}
-
-.navbar-text > a:hover {
-    color: cadetblue;
-}
-
-.navbar-text {
-  margin: auto;
-  width: 100%;
-  padding: 10px;
-}
 
